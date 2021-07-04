@@ -50,3 +50,6 @@ Each Vuforia Engine GameObject can be configured in the Inspector. When a target
 Select the Image Target GameObject from the Hierarchy and choose from the Type dropdown either From database – Image Target databases can be made in the Vuforia Target Manager. Targets to the project. Vuforia will therefore ask you if you wish to Import Default Image Target Database in a pop-up window.
 
 Press Import. Note: Maintain an accurate scale between the Vuforia targets and physical prints or objects. Using targets that deviate in size from the real-life object you wish to track might impact the quality.
+
+# COPYRIGHTED CONTENTS
+Images, videos, and text contents that are unique to Stock Knowledge are copyrighted. Please ask permission if you wish to use them.
